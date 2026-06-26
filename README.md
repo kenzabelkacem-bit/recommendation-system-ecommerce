@@ -191,35 +191,10 @@ Captures/
 ---
 
 #  Démonstration vidéo
-![vidéo](video/demonstration-MsProject.mp4)
 
-Une vidéo de démonstration du projet est disponible dans ce dépôt GitHub.
+[![Voir la démonstration](video/demonstration.png)](video/demonstration-MsProject.mp4)
 
-Elle présente notamment :
-
-- la planification complète du projet ;
-- les différentes phases de développement ;
-- le diagramme de Gantt ;
-- les dépendances entre les tâches ;
-- l'affectation des ressources ;
-- le chemin critique ;
-- la gestion des coûts et des délais.
-
-La vidéo se trouve dans le dossier :
-
-```
-vidéo/
-```
-
-Nom du fichier :
-
-```
-demonstration-MsProject.mp4
-```
-
-> Pour visionner la démonstration, téléchargez simplement le fichier vidéo depuis le dépôt GitHub.
-
----
+Cliquez sur l'image ci-dessus pour télécharger et visionner la vidéo.
 
 # Documentation
 
