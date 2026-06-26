@@ -156,7 +156,7 @@ Captures/
 
 ## Architecture globale
 
-![Architecture](captures/Archi-globale.png)
+![Architecture](screenshots/Archi-globale.png)
 
 ---
 
@@ -180,7 +180,7 @@ Captures/
 
 ## Diagramme d'activités
 
-![Diagramme d'activités](screenshots/diagramme-activités.png)
+![Diagramme d'activités](screenshots/diagramme-activites.png)
 
 ---
 
