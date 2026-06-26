@@ -191,6 +191,7 @@ Captures/
 ---
 
 #  Démonstration vidéo
+![vidéo](video/demonstration-MsProject.mp4)
 
 Une vidéo de démonstration du projet est disponible dans ce dépôt GitHub.
 
