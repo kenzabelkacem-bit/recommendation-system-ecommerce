@@ -154,20 +154,69 @@ Captures/
 
 # Captures d'écran
 
-Les principales captures d'écran du projet sont disponibles dans le dossier :
+## Architecture globale
+
+![Architecture](captures/Archi-globale.png)
+
+---
+
+## Diagramme de cas d'utilisation
+
+![Cas d'utilisation](screenshots/Diagramme-de-cas-utilisation.png)
+
+---
+
+## Diagramme de classes
+
+![Diagramme de classes](screenshots/Diagramme-de-classes.png)
+
+---
+
+## Diagramme de séquence
+
+![Diagramme de séquence](screenshots/Diagramme-de-sequence.png)
+
+---
+
+## Diagramme d'activités
+
+![Diagramme d'activités](screenshots/diagramme-activités.png)
+
+---
+
+## Diagramme d'états de transition
+
+![Diagramme d'états](screenshots/Diagramme-etats-de-transition.png)
+
+---
+
+#  Démonstration vidéo
+
+Une vidéo de démonstration du projet est disponible dans ce dépôt GitHub.
+
+Elle présente notamment :
+
+- la planification complète du projet ;
+- les différentes phases de développement ;
+- le diagramme de Gantt ;
+- les dépendances entre les tâches ;
+- l'affectation des ressources ;
+- le chemin critique ;
+- la gestion des coûts et des délais.
+
+La vidéo se trouve dans le dossier :
 
 ```
-screenshots/
+vidéo/
 ```
 
-Exemples :
+Nom du fichier :
 
-- Diagramme de cas d'utilisation
-- Diagramme de classes
-- Diagramme de séquence
-- Diagramme de Gantt
-- Planning Microsoft Project
-- Réseau PERT
+```
+demonstration-MsProject.mp4
+```
+
+> Pour visionner la démonstration, téléchargez simplement le fichier vidéo depuis le dépôt GitHub.
 
 ---
 
@@ -183,7 +232,7 @@ Le dépôt contient :
 
 ---
 
-# 📚 Compétences mises en œuvre
+#  Compétences mises en œuvre
 
 - Gestion de projet
 - Génie logiciel
