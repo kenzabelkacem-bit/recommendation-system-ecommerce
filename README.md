@@ -196,10 +196,6 @@ Captures/
 
 Cliquez sur l'image ci-dessus pour télécharger et visionner la vidéo.
 
-# Documentation
-
-
----
 
 #  Compétences mises en œuvre
 
