@@ -198,13 +198,6 @@ Cliquez sur l'image ci-dessus pour télécharger et visionner la vidéo.
 
 # Documentation
 
-Le dépôt contient :
-
-- le rapport complet du projet ;
-- les diagrammes UML ;
-- le planning Microsoft Project ;
-- les documents de gestion de projet ;
-- la documentation technique.
 
 ---
 
